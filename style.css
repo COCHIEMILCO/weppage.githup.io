@@ -1,0 +1,163 @@
+body {
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)), url(https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-2935d0a3e332decb8e727fe56789b6ab);
+    background-size: cover;
+    margin: 0;
+    background-repeat: no-repeat;
+    
+}
+
+.encabezado {
+    color: white;
+    margin: 0%;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.varus {
+    
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+        width: 300px;
+        height: 200px;
+        font-size: 25px;
+        position: relative;
+        bottom: -130px;
+        left: 150px;
+        background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg);
+        background-size: cover;
+         background-repeat: no-repeat;
+        color: white;
+            white-space: normal;
+            text-align: center;
+            overflow: hidden;
+           margin: 0;
+           
+        
+}
+
+.varus:hover {
+    height: 600px;
+    transition: height 2s;
+}
+
+.shen {
+
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    position: relative;
+    bottom: 74px;
+    left: 750px;
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    white-space: normal;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+
+
+}
+
+.shen:hover {
+    height: 600px;
+    transition: height 2s;
+}
+
+.veigar {
+
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    position: relative;
+    bottom: 278px;
+    left: 1355px;
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    white-space: normal;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+
+
+}
+
+.veigar:hover {
+    height: 600px;
+    transition: height 2s;
+}
+
+.gangplank {
+
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    position: relative;
+    bottom: 100px;
+    left: 450px;
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    white-space: normal;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+
+
+}
+
+.gangplank:hover {
+    height: 600px;
+    transition: height 2s;
+}
+
+.alistar {
+
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    position: relative;
+    bottom: 300px;
+    left: 1053px;
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    white-space: normal;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+
+
+}
+
+.alistar:hover {
+    height: 600px;
+    transition: height 2s;
+}
+
+.que-pro {
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    color: white
+    
+    
+}
+
+a {
+    color: rgb(0, 255, 0);
+}
